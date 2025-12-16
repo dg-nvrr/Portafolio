@@ -27,7 +27,7 @@ Plataforma web Full Stack diseñada para la gestión y exhibición de obras de a
 En este video explico la arquitectura del proyecto, el funcionamiento del panel de administración y el diseño de la interfaz:
 
 [LINK_DE_YOUTUBE]
-*(Nota: Una vez subas el video a YouTube, pega el link aquí. GitHub a veces lo convierte en vista previa automáticamente).*
+(youtube.com)
 
 ---
 
