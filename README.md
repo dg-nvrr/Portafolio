@@ -13,7 +13,7 @@ Plataforma web Full Stack diseñada para la gestión y exhibición de obras de a
 ### 🔗 Enlaces del Proyecto
 | 🖥️ **Demo en Vivo** | 🎨 **Caso de Estudio UX/UI** | 📂 **Código Fuente** |
 |:---:|:---:|:---:|
-| [Ver Página Web (Render)](https://portafolio-proyecto-para-artista.onrender.com) | [Ver en Behance](https://www.behance.net/gallery/240593621/Proyecto-arte) | [Ver Repositorio](https://github.com/dg-nvrr/Portafolio) |
+| [Ver Página Web (Render)](https://portafolio-proyecto-para-artista.onrender.com) | [Ver en Behance](https://www.behance.net/gallery/240593621/Proyecto-arte) | [Ver Repositorio](https://github.com/dg-nvrr/pagina-artistica) |
 
 ### 🛠️ Tecnologías Utilizadas
 * **Backend:** Python, Django 5.0, SQLite.
